@@ -34,3 +34,8 @@ Also make another network call to fetch the comments of the video.
 2. Video Details- The api will give us the details of a particular video. We need to send the videoId which uniquely identifies the video and what details we need in the `part` parameter.
 
 3. Play Video
+
+
+Here's the figm file for reference: https://www.figma.com/file/53msLWP0JcqWdt4n0fjAZu/YouTube-UI-Clone-Design-(Community)?type=design&node-id=3-185&mode=design&t=9E1wUw956BSodnIp-0
+
+For any queries, reach out at hasanmrizvi72@gmail.com

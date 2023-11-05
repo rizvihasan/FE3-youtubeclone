@@ -36,6 +36,6 @@ Also make another network call to fetch the comments of the video.
 3. Play Video
 
 
-Here's the figm file for reference: https://www.figma.com/file/53msLWP0JcqWdt4n0fjAZu/YouTube-UI-Clone-Design-(Community)?type=design&node-id=3-185&mode=design&t=9E1wUw956BSodnIp-0
+Here's the Figma file for reference: https://www.figma.com/file/53msLWP0JcqWdt4n0fjAZu/YouTube-UI-Clone-Design-(Community)?type=design&node-id=3-185&mode=design&t=9E1wUw956BSodnIp-0
 
 For any queries, reach out at hasanmrizvi72@gmail.com
